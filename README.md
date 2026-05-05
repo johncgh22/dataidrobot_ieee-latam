@@ -28,4 +28,9 @@ The main files to reproduce the simulation and deploying the identification requ
 * Simscape Multibody (https://la.mathworks.com/products/simscape-multibody.html)
 * Robotics System Toolbox (https://la.mathworks.com/products/robotics.html)
 
-In order to export the CAD files to MATLAB using CAD applications, you need to install the [Simscape Multibody Link Plugin](https://la.mathworks.com/help/smlink/ug/installing-and-linking-simmechanics-link-software.html)  
+------
+
+### CAD model import to Simscape Multibody
+In order to import the CAD assembly model to MATLAB/Simulink, you need to install the [Simscape Multibody Link Plugin](https://la.mathworks.com/help/smlink/ug/installing-and-linking-simmechanics-link-software.html).
+
+If you use the Onshape version, you can import directly to Simscape Multibody using [Onshape Import](https://la.mathworks.com/help/sm/ug/onshape-import.html). Follow [this example](https://la.mathworks.com/help/sm/ug/export-a-model-from-onshape-software.html) for more details.
