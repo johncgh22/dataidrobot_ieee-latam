@@ -4,6 +4,7 @@
 
 ### Overview
 This repository contains the files needed to replicate the results presented in the paper "Identification of kinematic and dynamic parameters of a manipulator using a data-driven approach"
+
 ------
 
 ### Robot File Description
@@ -12,11 +13,13 @@ This repository uses the following 3 DoF serial manipulator, which config, mesh 
 
 If you prefered to use the CAD files directly, you can download them from Onshape:
 [Serial Manipulator CAD files](https://cad.onshape.com/documents/24177e1622b7fec708ecbcbd/w/95ff83bf90adcb17a6e9096b/e/46fdcad5c9582ce624ec01ee?renderMode=0&uiState=69efbc494fe06c90d68c7818)
+
 ------
 
 ### Data-Driven Identification files
 The files presented uses the SINDy code base that can de downloaded from the following site:
 [SINDy code base - MATLAB](https://faculty.washington.edu/kutz/page26/)
+
 ------
 
 ### File Requirements
