@@ -20,6 +20,8 @@ If you prefered to use the CAD files directly, you can download them from Onshap
 The files presented uses the SINDy code base that can de downloaded from the following site:
 [SINDy code base - MATLAB](https://faculty.washington.edu/kutz/page26/)
 
+In order to exectue the identification, please add those files to this project in order to run the identification process (serial3_sindy.m)
+
 ------
 
 ### File Requirements
